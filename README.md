@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjakarianur" alt="mdjakarianur" /></a> </p>
 
-- 🔭 I’m currently working on [JakariaA](https://www.jakariaa.com target="_blanck") , [JakariaN](www.jakarian.com) , [JakaFind](www.jakafind.jakariaa.com) , [JakaFact](www.jakafact.jakariaa.com)
+- 🔭 I’m currently working on [JakariaA](https://www.jakariaa.com) , [JakariaN](https://www.jakarian.com) , [JakaFind](https://www.jakafind.jakariaa.com) , [JakaFact](https://www.jakafact.jakariaa.com)
 
 - 🌱 I’m currently learning **Java, JavaScript, PHP, Python, React.js, Exprees.js, Node.js, and MongDB**
 
-- 👨‍💻 All of my projects are available at [Md Jakaria Nur](www.nur.jakariaa.com) , [Md Jubayer Nur](www.jubayer.jakariaa.com) , [JakariaA](www.jakariaa.com) , [JakariaN](www.jakarian.com) , [JakaFind](www.jakafind.jakariaa.com) , [JakaFact](www.jakafact.jakariaa.com)
+- 👨‍💻 All of my projects are available at [Md Jakaria Nur](https://www.nur.jakariaa.com) , [Md Jubayer Nur](https://www.jubayer.jakariaa.com) , [JakariaA](https://www.jakariaa.com) , [JakariaN](www.jakarian.com) , [JakaFind](https://www.jakafind.jakariaa.com) , [JakaFact](https://www.jakafact.jakariaa.com)
 
-- 📝 I regularly write articles on Programming at [JakaFind](www.jakafind.jakariaa.com) , [JakaFact](www.jakafact.jakariaa.com)
+- 📝 I regularly write articles on Programming at [JakaFind](https://www.jakafind.jakariaa.com) , [JakaFact](https://www.jakafact.jakariaa.com)
 
 - 📫 How to reach me **info.nur@jakariaa.com** **info.mdjakarianur@gmail.com** 
 
