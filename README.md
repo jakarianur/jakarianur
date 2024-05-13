@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, PHP, Python, React.js, Exprees.js, Node.js, and MongDB**
 
-- 👨‍💻 All of my projects are available at [www.nur.jakariaa.com](www.nur.jakariaa.com)
+- 👨‍💻 All of my projects are available at [Md Jakaria Nur](www.nur.jakariaa.com) , [Md Jubayer Nur](www.jubayer.jakariaa.com) , [JakariaA](www.jakariaa.com) , [JakariaN](www.jakarian.com) , [JakaFind](www.jakafind.jakariaa.com) , [JakaFact](www.jakafact.jakariaa.com)
 
 - 📝 I regularly write articles on Programming at [JakaFind](www.jakafind.jakariaa.com) , [JakaFact](www.jakafact.jakariaa.com)
 
