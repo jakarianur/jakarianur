@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjakarianur" alt="mdjakarianur" /></a> </p>
 
-- 🔭 I’m currently working on [JakariaA](https://www.jakariaa.com) , [JakariaN](www.jakarian.com) , [JakaFind](www.jakafind.jakariaa.com) , [JakaFact](www.jakafact.jakariaa.com)
+- 🔭 I’m currently working on [JakariaA](https://www.jakariaa.com target="_blanck") , [JakariaN](www.jakarian.com) , [JakaFind](www.jakafind.jakariaa.com) , [JakaFact](www.jakafact.jakariaa.com)
 
 - 🌱 I’m currently learning **Java, JavaScript, PHP, Python, React.js, Exprees.js, Node.js, and MongDB**
 
