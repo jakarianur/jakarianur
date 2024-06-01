@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjakarianur" alt="mdjakarianur" /></a> </p>
 
-- 🔭 I’m currently working on [JakariaA](https://www.jakariaa.com) , [JakariaN](https://www.jakarian.com) , [JakaFind](https://www.jakafind.jakariaa.com) , [JakaFact](https://www.jakafact.jakariaa.com)
+- 🔭 I’m currently working on [Md Jakaria Nur](https://www.nur.jakariaa.com) , [Md Jubayer Nur](https://www.jubayer.jakariaa.com) , [JakariaA](https://www.jakariaa.com) , [JakariaN](https://www.jakarian.com) , [JakaFind](https://www.jakafind.jakariaa.com) , [JakaFact](https://www.jakafact.jakariaa.com)
 
-- 🌱 I’m currently learning **Java, JavaScript, PHP, Python, React.js, Exprees.js, Node.js, and MongDB**
+- 🌱 I’m currently learning **C, C++, Java, JavaScript, PHP, Python, R, C#, React.js, Exprees.js, Node.js, and MongDB**
 
 - 👨‍💻 All of my projects are available at [Md Jakaria Nur](https://www.nur.jakariaa.com) , [Md Jubayer Nur](https://www.jubayer.jakariaa.com) , [JakariaA](https://www.jakariaa.com) , [JakariaN](www.jakarian.com) , [JakaFind](https://www.jakafind.jakariaa.com) , [JakaFact](https://www.jakafact.jakariaa.com)
 
